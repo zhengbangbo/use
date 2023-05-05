@@ -5,7 +5,8 @@ Things I am using
 ## Editor
 
 - [VS Code](https://code.visualstudio.com/)
-- Settings & Extensions: [zhengbangbo/vscode-settings](https://github.com/zhengbangbo/vscode-settings)
+  - Settings & Extensions: [zhengbangbo/vscode-settings](https://github.com/zhengbangbo/vscode-settings)
+- [NeoVim](https://neovim.io/)
 
 ## CLI
 
@@ -43,7 +44,8 @@ Things I am using
 
 - [`broz`](https://github.com/antfu/broz) - Frameless browser for screenshots
 - [Figma](https://www.figma.com/) - Illustrations, Logos, Social Media Banners
-- [OBS](https://obsproject.com/) - Streaming & Recording
+- [OBS](https://obsproject.com/) - Streaming
+- [Kap](https://getkap.co/) - Screen Recording
 
 ## Others
 
@@ -122,6 +124,7 @@ Things I am using
 - [iTerm2](https://iterm2.com/) - Terminal
 - [qbittorrent](https://www.qbittorrent.org/) - BitTorrent Client
 - [wechatwebdevtools](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html) - WeChat Mini Program IDE
+- [Klack](https://tryklack.com/) - Keystroke Sound
 
 ## Hardware
 
